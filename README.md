@@ -11,7 +11,7 @@ and to submit those assignments to this repo via a pull request.
 **Please leve your comment, suggestion, question in the comment feedback or send me emails!**
 
 This is the homework repository for the courses of CS, Wuhan University:
-* (2022-2023-2)-3140520011020-»Ì◊ø "Computer Networking" for native students
+* (2022-2023-2)-3140520011020-ËΩØÂçì "Computer Networking" for native students
     - 2:00PM - 3:40PM, Monday Afternoon, Week 3 to Week 14, Room 2-105, Building 2, Campus 2
     - 8:00AM - 9:40AM, Wednesday Morning, Week 3 to Week 14, Room 2-108, Building 2, Campus 2
 * (2022-2023-2)-3100520043006-01 "Computer Networking" for international students
