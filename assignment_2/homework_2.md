@@ -6,3 +6,4 @@ send your homework while a pull-request of the repository: https://gitee.com/net
 
 ## deadline: in 2 weeks
 
+Problems of Chapter 1: P8, P25, P27
