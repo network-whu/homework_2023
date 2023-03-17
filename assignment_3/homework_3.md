@@ -1,4 +1,4 @@
-# Homework 2
+# Homework 3
 
 send your homework while a pull-request of the repository: https://gitee.com/network-whu/homework_2023 
 
@@ -6,4 +6,5 @@ send your homework while a pull-request of the repository: https://gitee.com/net
 
 ## deadline: in 2 weeks
 
-Problems of Chapter 1: P8, P25, P27
+What is the difference between abstraction and encapsulation?
+
